@@ -15,6 +15,10 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.white,
         elevation: 0.0,
         centerTitle: true,
+        leading: Container(
+          decoration: BoxDecoration(
+              color: Colors.black, borderRadius: BorderRadius.circular(10)),
+        ),
       ),
     );
   }
