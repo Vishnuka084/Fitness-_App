@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
           margin: EdgeInsets.all(10),
           alignment: Alignment.center,
           child: SvgPicture.asset(
-            'assets/icons/Arrow - Left 2.svg',
+            'assets\icons\Arrow - Left 2.svg',
             height: 20,
             width: 20,
           ),
@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
             alignment: Alignment.center,
             width: 37,
             child: SvgPicture.asset(
-              'assets/icons/dots.svg',
+              'ssets\icons\dots.svg',
               height: 20,
               width: 20,
             ),
